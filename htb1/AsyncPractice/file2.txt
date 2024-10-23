@@ -1,0 +1,2 @@
+This is file2.
+It contains beautiful water!
